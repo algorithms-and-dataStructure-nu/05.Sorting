@@ -4,4 +4,5 @@
 
 ## ファイル
 - [05.Sorting.ipynb](05.Sorting.ipynb): 泡立ち法と選択法の説明と実装
+- [05.Quiz.ipynb](05.Quiz.ipynb): クイズ
 - [05.Exercise.ipynb](05.Exercise.ipynb): 課題
